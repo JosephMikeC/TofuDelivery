@@ -1,4 +1,7 @@
 # TofuDelivery
 RLBot
 
-TofuDelivery is a bot made with RLUtilities and was first 
+TofuDelivery is a bot made with RLUtilities
+
+# Tournaments
+- Slowbots (02/02/19)
